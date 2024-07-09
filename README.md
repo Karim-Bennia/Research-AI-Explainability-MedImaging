@@ -1,5 +1,5 @@
 # AI Explainability in Medical Imaging
-![Research Context](![Poster RSC XAI](assets/Poster_RSC_XAI.png))
+![Poster RSC XAI](assets/Poster_RSC_XAI.png)
 ## Project Overview
 
 **Core Idea**  
